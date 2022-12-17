@@ -1,0 +1,16 @@
+C:\Users\Sony\Desktop\dz\dz4\bin\Debug\net6.0\dz4.exe
+C:\Users\Sony\Desktop\dz\dz4\bin\Debug\net6.0\dz4.deps.json
+C:\Users\Sony\Desktop\dz\dz4\bin\Debug\net6.0\dz4.runtimeconfig.json
+C:\Users\Sony\Desktop\dz\dz4\bin\Debug\net6.0\dz4.dll
+C:\Users\Sony\Desktop\dz\dz4\bin\Debug\net6.0\ref\dz4.dll
+C:\Users\Sony\Desktop\dz\dz4\bin\Debug\net6.0\dz4.pdb
+C:\Users\Sony\Desktop\dz\dz4\obj\Debug\net6.0\dz4.GlobalUsings.g.cs
+C:\Users\Sony\Desktop\dz\dz4\obj\Debug\net6.0\dz4.csproj.AssemblyReference.cache
+C:\Users\Sony\Desktop\dz\dz4\obj\Debug\net6.0\dz4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sony\Desktop\dz\dz4\obj\Debug\net6.0\dz4.AssemblyInfoInputs.cache
+C:\Users\Sony\Desktop\dz\dz4\obj\Debug\net6.0\dz4.AssemblyInfo.cs
+C:\Users\Sony\Desktop\dz\dz4\obj\Debug\net6.0\dz4.csproj.CoreCompileInputs.cache
+C:\Users\Sony\Desktop\dz\dz4\obj\Debug\net6.0\dz4.dll
+C:\Users\Sony\Desktop\dz\dz4\obj\Debug\net6.0\ref\dz4.dll
+C:\Users\Sony\Desktop\dz\dz4\obj\Debug\net6.0\dz4.pdb
+C:\Users\Sony\Desktop\dz\dz4\obj\Debug\net6.0\dz4.genruntimeconfig.cache
